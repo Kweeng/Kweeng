@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Kweeng
+- 👋 Hi, I’m Faith Ewah (@Kweeng)
 - 👀 I’m interested in building responsive applications and would love to collaborate with people too.
-- 🌱 I’m currently learning to widen my react js skills
+- 🌱 I’m currently learning to widen my react js skills and dive into the blockchain industry.
 
 - 💞️ I’m looking to collaborate on as many projects that can help my skills improve tremendously. 
 - 📫 How to reach me ...
